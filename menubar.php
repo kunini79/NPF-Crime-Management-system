@@ -2,7 +2,7 @@
 	<div class="col-md-12">
 		<div class="panel panel-success">
 			<div class="panel-heading">
-				<center><h3 >BIJAPUR POLICE SERVICE</h3></center>
+				<center><h3 >NIGERIAN POLICE FORCE</h3></center>
 				<center><h4>CRIME RECORDS MANAGEMENT SYSTEM</h4></center>
 			</div>
 			<div class="panel-body">
