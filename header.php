@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bijapur Police Service</title>
+    <title>Nigerian Police Force</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -23,4 +23,4 @@
     <a class="navbar-brand" href="#"> </a>
   </div>
 </nav>
-<p style="text-align: center;font-size: 30px;color: #ffff;font-family: Product Sans Medium;">BIJAPUR POLICE CRIME RECORD MANAGEMENT</p> 
+<p style="text-align: center;font-size: 30px;color: #ffff;font-family: Product Sans Medium;">NIGERIAN POLICE CRIME RECORD MANAGEMENT</p>
